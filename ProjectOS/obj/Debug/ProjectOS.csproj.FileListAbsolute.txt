@@ -1,0 +1,10 @@
+C:\Users\mahmoud\source\repos\ProjectOS\ProjectOS\bin\Debug\ProjectOS.exe.config
+C:\Users\mahmoud\source\repos\ProjectOS\ProjectOS\bin\Debug\ProjectOS.exe
+C:\Users\mahmoud\source\repos\ProjectOS\ProjectOS\bin\Debug\ProjectOS.pdb
+C:\Users\mahmoud\source\repos\ProjectOS\ProjectOS\obj\Debug\ProjectOS.csprojAssemblyReference.cache
+C:\Users\mahmoud\source\repos\ProjectOS\ProjectOS\obj\Debug\ProjectOS.Form1.resources
+C:\Users\mahmoud\source\repos\ProjectOS\ProjectOS\obj\Debug\ProjectOS.Properties.Resources.resources
+C:\Users\mahmoud\source\repos\ProjectOS\ProjectOS\obj\Debug\ProjectOS.csproj.GenerateResource.cache
+C:\Users\mahmoud\source\repos\ProjectOS\ProjectOS\obj\Debug\ProjectOS.csproj.CoreCompileInputs.cache
+C:\Users\mahmoud\source\repos\ProjectOS\ProjectOS\obj\Debug\ProjectOS.exe
+C:\Users\mahmoud\source\repos\ProjectOS\ProjectOS\obj\Debug\ProjectOS.pdb
